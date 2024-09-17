@@ -6,6 +6,11 @@ model = YOLO('best.pt')
 
 # Mostrar la informaaaaación del modelo
 model.info()
+# Mostrar la informaaaaación del modelo
+# Mostrar la informaaaaación del modelo
+# Mostrar la informaaaaación del modelo
+# Mostrar la informaaaaación del modelo
+# Mostrar la informaaaaación del modelo
 
 # Imprimir las clases del modelo
 print("Clases del modelo:", model.names)
