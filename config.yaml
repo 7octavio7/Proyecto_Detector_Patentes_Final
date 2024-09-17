@@ -1,0 +1,9 @@
+path: \\?\C:\Proyecto_Detector_Patentes\train\
+
+train: C:\Capstone\Proyecto_Detector_Patentes\train\images
+val: C:\Capstone\Proyecto_Detector_Patentes\valid\images
+test: C:\Proyecto_Detector_Patentes\test\images
+
+
+names: 
+  0: License_Plate
