@@ -4,10 +4,6 @@ import cv2
 # Cargar el modelo entrenado
 model = YOLO('best.pt')
 
-# Mostrar la información del modelo
-# Mostrar la información del modelo
-# Mostrar la información del modelo
-# Mostrar la información del modelo
 
 model.info()
 
