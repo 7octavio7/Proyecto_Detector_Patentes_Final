@@ -5,6 +5,10 @@ import cv2
 model = YOLO('best.pt')
 
 # Mostrar la información del modelo
+# Mostrar la información del modelo
+# Mostrar la información del modelo
+# Mostrar la información del modelo
+
 model.info()
 
 # Imprimir las clases del modelo
